@@ -1,6 +1,4 @@
-# My-LeNet-5-CNN
-
-# LeNet-5 (RBF Output Layer) — Digit Classification in PyTorch
+# My-LeNet-5-CNN Digit Classification in PyTorch
 
 This project implements a **LeNet-5 style CNN** in **PyTorch** with a **Radial Basis Function (RBF) classifier** head (prototype-based classification), trained on an MNIST digit dataset organized in folders `0/` through `9/`.
 
