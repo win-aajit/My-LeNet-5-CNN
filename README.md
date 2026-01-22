@@ -1,6 +1,6 @@
 # My-LeNet-5-CNN
-![chart.jpg](chart.jpg)
-![c_matrix.jpg](c_matrix.jpg)
+![chart.png](chart.png)
+![c_matrix.png](c_matrix.png)
 
 Epoch: 20T -> TrainErr =0.0012 & TestErr=0.0265
 Most Misclassified Digits:
